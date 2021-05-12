@@ -1,16 +1,17 @@
-### Hi there 👋
+## hey, i’m jayden
 
-<!--
-**wizdaif/wizdaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 [website](https://jae.earth)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I currently have experience with: 
+~ JavaScript, TypeScript, Node.js
+---
+
+### Contact
+
+mail ~ [jayden@jae.earth](mailto:jayden@jae.earth)  
+
+twitter ~ [@t_boynextdoor](https://twitter.com/t_boynextdoor)  
+
+discord.bio ~ [_ _#1558](https://discord.bio/p/tb)
