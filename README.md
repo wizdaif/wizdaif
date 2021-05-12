@@ -5,7 +5,7 @@
 ---
 
 ### I currently have experience with: 
-~ JavaScript, TypeScript, Node.js
+~ JavaScript, TypeScript, Node.js ~
 ---
 
 ### Contact
