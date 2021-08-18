@@ -1,6 +1,7 @@
 ## hey, i’m jayden
 
 🌎 [website](https://jae.earth)
+📝 [projects site (in progress)](https://jae.monster)
 
 ---
 
