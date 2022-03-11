@@ -21,3 +21,13 @@ discord.bio ~ [_ _#1558](https://discord.bio/p/td)
 [patreon](https://www.patreon.com/tbnd?fan_landing=true)
 
 [buy me a coffee](https://www.buymeacoffee.com/tbnd)
+
+
+domain list:
+jae.monster
+jae.earth
+jae.quest
+
+business related domains:
+rbxoblivion.com
+dantech.business - gonna sell it soon probably
