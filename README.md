@@ -16,6 +16,7 @@ NextJS
 
 ### Currently Learning
 Nuxtjs
+
 ---
 
 ### Contact
