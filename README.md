@@ -12,10 +12,11 @@ Node.js
 Rust 
 React
 NextJS
+Nuxtjs
 ~
 
 ### Currently Learning
-Nuxtjs
+Nothing...
 
 ---
 
