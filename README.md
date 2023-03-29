@@ -25,7 +25,3 @@ Nothing...
 mail ~ [jayden](mailto:jayden@jae.quest)  
 
 twitter ~ [@t_boynextdoor](https://twitter.com/t_boynextdoor)  
-
-[patreon](https://www.patreon.com/tbnd?fan_landing=true)
-
-[buy me a coffee](https://www.buymeacoffee.com/tbnd)
