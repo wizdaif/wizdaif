@@ -6,13 +6,14 @@
 
 ### I currently have experience with: 
 ~ 
-JavaScript
-TypeScript
-Node.js
-Rust 
-React
-NextJS
-Nuxtjs
+JavaScript\n
+TypeScript\n
+Node.js\n
+Rust\n
+React\n
+NextJS\n
+Nuxtjs\n
+Lua
 ~
 
 ### Currently Learning
