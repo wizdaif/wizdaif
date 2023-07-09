@@ -5,15 +5,14 @@
 ---
 
 ### I currently have experience with: 
-~ 
-JavaScript
-TypeScript
-Node.js
+Languages: 
+Node.js & TypeScript,
+Lua,
 Rust
-React
-NextJS
-Nuxtjs
-Lua
+
+React (Next.js)
+Vue (Nuxt.js)
+Node.js (Nest.js)
 ~
 
 ### Currently Learning
