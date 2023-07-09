@@ -13,7 +13,7 @@ Rust
 React (Next.js)
 Vue (Nuxt.js)
 Node.js (Nest.js)
-~
+
 
 ### Currently Learning
 Nothing...
