@@ -20,11 +20,6 @@ Nothing...
 
 ---
 
-![ ](https://github-readme-stats.vercel.app/api?username=wizdaif&theme=darcula&show_icons=true)
-
-
----
-
 ### Contact
 
 mail ~ [jayden](mailto:jayden@jae.quest)  
