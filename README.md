@@ -1,6 +1,6 @@
 ## hey, i’m jayden
 
-🌎 [website](https://jae.quest)
+🌎 [website](https://jae.quest) (going to renovate soon)
 
 ---
 
