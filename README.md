@@ -2,6 +2,7 @@
 I'm Jayden, a full-stack developer. I mainly work on projects related to Roblox, but from time to time I'll work on something new. 
 
 I'm currently working on: 
+- [blox.zone](https://discord.gg/bloxzone1) a Roblox marketplace for players to buy in-game items with crypto or card!
 - [5050.gg](https://5050.gg) a crypto-based PvP gaming platform which utilizes provably fair algorithims for transparent and verifiable game outcomes.
 - [dash ecommerce](https://github.com/wizdaif/dash) a free digital product management & storefront for Roblox developers to sell assets.
 - [obl/oblivion (inactive)](https://obl.lol/robux) a storefront that interfaces with private Robux panels for players to buy Robux at cheaper rates.
